@@ -20,6 +20,6 @@ public class Tester {
 	public void assertFalse() {
 
 		LOG.info("Running sample test");
-		Assert.assertTrue(true, "Value mismatch");
+		Assert.assertTrue(false, "Value mismatch");
 	}
 }
