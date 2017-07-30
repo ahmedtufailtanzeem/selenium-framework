@@ -16,4 +16,10 @@ public class Tester {
 		Assert.assertTrue(true, "Value mismatch");
 	}
 
+	@Test
+	public void assertFalse() {
+
+		LOG.info("Running sample test");
+		Assert.assertTrue(true, "Value mismatch");
+	}
 }
