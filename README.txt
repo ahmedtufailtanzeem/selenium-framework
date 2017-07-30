@@ -1,1 +1,1 @@
-Add git hooks with jenkins integration test
+Add git hooks with jenkins integration. Redirect using ./ngrok http 80
