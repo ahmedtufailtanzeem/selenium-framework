@@ -1,1 +1,1 @@
-Add git hooks with jenkins integration
+Add git hooks with jenkins integration test
